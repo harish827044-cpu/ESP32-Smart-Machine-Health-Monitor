@@ -125,3 +125,17 @@ Object Near Machine: YES
 ALERT: Unsafe Condition Detected!
 Machine Status: SHUTDOWN
 Relay Status: OFF
+
+## Demo Images
+
+### Hardware Setup
+![Hardware Setup](circuit_photo.jpg)
+
+### Serial Monitor Alert Output
+![Alert Output](serial_output_alert.jpg)
+
+## Project Status
+
+Practical hardware prototype completed using ESP32, DHT11 sensor, IR sensor, buzzer, and relay module.
+
+MPU6050 vibration monitoring was planned in the initial concept and will be added in a future version.
