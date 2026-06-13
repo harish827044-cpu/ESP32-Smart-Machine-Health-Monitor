@@ -125,6 +125,9 @@ Object Near Machine: YES
 ALERT: Unsafe Condition Detected!
 Machine Status: SHUTDOWN
 Relay Status: OFF
+```
+
+---
 
 ## Demo Images
 
@@ -133,6 +136,8 @@ Relay Status: OFF
 
 ### Serial Monitor Alert Output
 ![Alert Output](serial_output_alert.jpg)
+
+---
 
 ## Project Status
 
